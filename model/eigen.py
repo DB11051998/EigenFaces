@@ -8,3 +8,10 @@ class EigenClass:
 
     def __init__(self):
         pass
+
+
+
+class EigenFace:
+
+    def __init__(self):
+        pass
